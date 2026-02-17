@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Dados locais
+data/*.pdf
+data/*.xlsx
+data/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
