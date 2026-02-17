@@ -1,4 +1,7 @@
-# Adaptador Prova Paulista (Protótipo)
+# Adaptador Prova Paulista
+## 🖥️ Protótipo funcionando
+
+![App](assets/print.png)
 
 Sistema em desenvolvimento para ajudar professores a adaptar
 materiais da Prova Paulista e Currículo Paulista para alunos
